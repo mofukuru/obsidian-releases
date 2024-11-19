@@ -13999,6 +13999,13 @@
     "author": "Omri Levi",
     "description": "Updates numbered lists automatically to keep them in sequential order. Features live updates, smart pasting, and manual control options.",
     "repo": "OmriLeviGit/Automatic-Renumbering-Obsidian"
+  },
+  {
+    "id": "auto-file-organizer",
+    "name": "Auto File Organizer",
+    "author": "mofukuru",
+    "description": "Automatically organizes files into folders based on their extensions.",
+    "repo": "mofukuru/auto_file_organizer"
   }
 ]
 
